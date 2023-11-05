@@ -8,7 +8,7 @@ let totoalRequests = 0;
 
 // Mysql //
 const mysqlInformations = {
-    host: "64.112.126.37",
+    host: "103.195.100.230",
     user: "ZlqQbZwo",
     password: "zLRI3pq8R79U",
     port: "3306",
